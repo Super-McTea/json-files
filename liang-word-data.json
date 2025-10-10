@@ -1,0 +1,4950 @@
+[
+  {
+    "word": "lia",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "word",
+          "Language"
+        ]
+      },
+      {
+        "type": "proper",
+        "definition": [
+          "The Language"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to speak, literally to make word"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "naliana",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "Meeting hall, Auditorium",
+          "News and/or newspaper",
+          "(colloquial) Public speaker, \"speech-giver\""
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to present (at a hall or auditorium)",
+          "to give news"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lia"
+    ]
+  },
+  {
+    "word": "lilia",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a book, dictionary",
+          "a sentence (when referring to Grammar)"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to read (archaic use)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lia"
+    ]
+  },
+  {
+    "word": "nulia",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a thought or idea",
+          "world-view, way of thinking"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to think",
+          "to ideate (make new ideas)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lia"
+    ]
+  },
+  {
+    "word": "liai",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "knowledgeable",
+          "wordy (has a lot of words, i.e. speaks a lot)",
+          "persuasive"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lia"
+    ]
+  },
+  {
+    "word": "nai",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "water"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "wet, like a liquid"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "namai",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "lake, river",
+          "(colloquial) a body of water"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "nai"
+    ]
+  },
+  {
+    "word": "minai",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "fish (the animal that goes glubglubglub)",
+          "(colloquial) sea creature"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "nai"
+    ]
+  },
+  {
+    "word": "truzha",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to run"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "banu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "tears"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bamlu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to cry"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "banu"
+    ]
+  },
+  {
+    "word": "afila",
+    "data": [
+      {
+        "type": "exclamation",
+        "definition": [
+          "Hello",
+          "general greeting"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "amizha"
+    ]
+  },
+  {
+    "word": "pavi",
+    "data": [
+      {
+        "type": "exclamation",
+        "definition": [
+          "Goodbye, farewell"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "pathiva"
+    ]
+  },
+  {
+    "word": "ayo",
+    "data": [
+      {
+        "type": "exclamation",
+        "definition": [
+          "Hi, casual greeting"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "afila"
+    ]
+  },
+  {
+    "word": "payo",
+    "data": [
+      {
+        "type": "exclamation",
+        "definition": [
+          "Bye, casual farewell"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "pavi"
+    ]
+  },
+  {
+    "word": "amizha",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "day"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ami"
+    ]
+  },
+  {
+    "word": "ami",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "light"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pathiva",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "night"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "pazuva"
+    ]
+  },
+  {
+    "word": "pazuva",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "darkness"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "dark",
+          "without light"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "daba",
+    "data": [
+      {
+        "type": "exclamation",
+        "definition": [
+          "no"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gizi",
+    "data": [
+      {
+        "type": "exclamation",
+        "definition": [
+          "yes"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lami",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "bright",
+          "much light"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ami"
+    ]
+  },
+  {
+    "word": "zumi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "the sky"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ami",
+      "pazuva"
+    ]
+  },
+  {
+    "word": "mura",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "name (referring to a person)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ki",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "is",
+          "to be",
+          "to exist"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tazha",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to want"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dibi",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to need"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kuthi",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to own"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zumaru",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "zebra"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "maru"
+    ]
+  },
+  {
+    "word": "katu",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "ugly"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kuri",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to have",
+          "to possess",
+          "to hold"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "libu",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "Happy",
+          "Merry (as in Merry Christmas)"
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": [
+          "happiness",
+          "contentment"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nathi",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to continue",
+          "to persist",
+          "to remain"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "badinu",
+    "data": [
+      {
+        "type": "determiner",
+        "definition": [
+          "many"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "migi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "age"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kara",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "Cat (the animal that goes meow meow)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "taimu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to resume",
+          "to recommence"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "giba",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "place",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bakugi",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "old, aged"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "womu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "wonder",
+          "things that make you go \"woah\""
+        ]
+      }
+    ]
+  },
+  {
+    "word": "azumi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "dawn",
+          "morning"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "amizha",
+      "zumi"
+    ]
+  },
+  {
+    "word": "pazumi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "dusk",
+          "evening"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "pathiva",
+      "zumi"
+    ]
+  },
+  {
+    "word": "zuru",
+    "data": [
+      {
+        "type": "proper",
+        "definition": [
+          "the Sun"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zuva",
+    "data": [
+      {
+        "type": "proper",
+        "definition": [
+          "the Moon"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zuru"
+    ]
+  },
+  {
+    "word": "zurami",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "sunlight"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zuru",
+      "ami"
+    ]
+  },
+  {
+    "word": "zuvami",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "moonlight"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zuva",
+      "ami"
+    ]
+  },
+  {
+    "word": "vuubi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "house",
+          "building"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "daimu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "God"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "akamuri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "start",
+          "beginning"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to start",
+          "to begin"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "aka",
+      "mairi"
+    ]
+  },
+  {
+    "word": "gina",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "dog (the animal that goes woof)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "maru",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "wild (animal)",
+          "animal grouping not including pets"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tuki",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "horse"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zuruva",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "Contrast",
+          "Light and Dark"
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": [
+          "duality (Archaic use)",
+          "Ying and Yang (Archaic use)",
+          "good vs evil (Archaic use)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zuru",
+      "zuva"
+    ]
+  },
+  {
+    "word": "mizi",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "well, positive",
+          "healthy"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "riuna",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "right",
+          "(directional)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lauma",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "left",
+          "(directional)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhakuru",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "year"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mawofu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "appreciation"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to appreciate",
+          "to thank"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "womu"
+    ]
+  },
+  {
+    "word": "aiu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "alphabet, syllabary"
+        ]
+      },
+      {
+        "type": "proper",
+        "definition": [
+          "The Alphabet"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "a",
+      "i",
+      "u"
+    ]
+  },
+  {
+    "word": "wogi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "good",
+          "to be desired/approved of"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "good, see above"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "muda",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "bad",
+          "unpleasant or unwelcome"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "bad, see above"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhumai",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "Please, in a polite manner"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhaunai",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "tea"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zhau",
+      "nai"
+    ]
+  },
+  {
+    "word": "tika",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to drink (a liquid)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fitazu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to make (basic)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amami",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to like"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arima",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "Apple (froot) (red) (with stem)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "palaba",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "banana (froot) (yellow) (smile)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "taika",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to eat",
+          "to consume"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zamaki",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to play",
+          "(an instrument)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lalali",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "music"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bilivu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to enjoy"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "timida",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "proficient",
+          "good at"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kamu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "face (of a person)"
+        ]
+      },
+      {
+        "type": "adverb",
+        "definition": [
+          "in front",
+          "facing direction",
+          "(directional)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "riami",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a week",
+          "seven days"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "rita",
+      "amizha"
+    ]
+  },
+  {
+    "word": "mita",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a metre (100cm)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rani",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "fire"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lalau",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a song",
+          "a melody line"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lalali"
+    ]
+  },
+  {
+    "word": "kiri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "the wind",
+          "air"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhau",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "leaf"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "brau",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "ice element",
+          "nitrogen gas",
+          "liquid nitrogen"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "filima",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "metal"
+        ]
+      },
+      {
+        "type": "genitive",
+        "definition": [
+          "metallic",
+          "having the properties of metal"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mazhia",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "magic",
+          "magical energy"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mazhi",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "magical",
+          "having magic properties"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "mazhia"
+    ]
+  },
+  {
+    "word": "mazhui",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to cast (magic)",
+          "to expend magical energy"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "mazhia"
+    ]
+  },
+  {
+    "word": "ithida",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "electricity"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhata",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to stop"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "umabri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "human"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "buluka",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to look for",
+          "to search for"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "takumi",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to find (what you're looking for)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gizuba",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to go (away)",
+          "to travel"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "giba"
+    ]
+  },
+  {
+    "word": "brii",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "cold"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "brau"
+    ]
+  },
+  {
+    "word": "rai",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "hot"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "rani"
+    ]
+  },
+  {
+    "word": "ramaki",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "bread",
+          "(colloquial) food, sustenance"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "rai",
+      "taika"
+    ]
+  },
+  {
+    "word": "badimabri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a gathering (of people)",
+          "a crowd"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "badinu",
+      "umabri"
+    ]
+  },
+  {
+    "word": "kuadu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to come (towards self)",
+          "to arrive"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhamuri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "(the concept of) nature"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "fazha"
+    ]
+  },
+  {
+    "word": "gudani",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to expel",
+          "to eject"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amugazi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "surprise",
+          "Quantum Mechanics"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "thaduku",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "rock",
+          "stone"
+        ]
+      },
+      {
+        "type": "genitive",
+        "definition": [
+          "rocky",
+          "having the properties of rock"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dakui",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "sharp"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "draku",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to sharpen",
+          "to hone"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "dakui"
+    ]
+  },
+  {
+    "word": "tinaka",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a drink",
+          "an ingestible liquid",
+          "(colloquial) anything drinkable"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "tika"
+    ]
+  },
+  {
+    "word": "zaliku",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "salt",
+          "Sodium Chloride"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhulau",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a dance (a series of movements to music)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhulai",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to dance"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zhulau"
+    ]
+  },
+  {
+    "word": "mirami",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a mouse",
+          "a mouse-like animal (a rodent)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nazuri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a bird"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "anilia",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to understand",
+          "to comprehend"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "nulia"
+    ]
+  },
+  {
+    "word": "zhalumi",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to sleep",
+          "to rest"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "marizi",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "free, as in freedom"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "mizi",
+      "maru"
+    ]
+  },
+  {
+    "word": "dalutia",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "knight (serving royalty)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "dakui"
+    ]
+  },
+  {
+    "word": "mimini",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a baby"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhiba",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to do"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhikamu",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "difficult",
+          "hard"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bibami",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "a bunny",
+          "a rabbit"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "balia",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "knowledge"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to know",
+          "to recognise"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "bulu",
+      "lia"
+    ]
+  },
+  {
+    "word": "maitu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "tomato"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tainua",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to remember",
+          "to recall"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "athazu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "dead"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to die",
+          "to pass away"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kulia",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to write",
+          "to notate"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lia"
+    ]
+  },
+  {
+    "word": "kaziu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "cheese"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kima",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to take",
+          "to withdraw (money)",
+          "to repossess"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhanu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "money, currency",
+          "resources (more broadly)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zaliku"
+    ]
+  },
+  {
+    "word": "mufi",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "soft",
+          "quiet, gentle",
+          "low volume"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "auti",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "loud",
+          "noisy, deafening",
+          "high volume"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aranu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "sound"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "riini",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to hear",
+          "to listen"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bulu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to see",
+          "to look (at something)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "namufi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "Piano (instrument)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lana",
+      "mufi"
+    ]
+  },
+  {
+    "word": "lauti",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "Guitar (instrument)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lana",
+      "auti"
+    ]
+  },
+  {
+    "word": "lana",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "string",
+          "thread"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "apazu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to hurt",
+          "to injure",
+          "to maim"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "batidi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "group",
+          "collection"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to group",
+          "to collect",
+          "to gather"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "badinu",
+      "tiidi"
+    ]
+  },
+  {
+    "word": "tiidi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "thing",
+          "unnamed inanimate object"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ti"
+    ]
+  },
+  {
+    "word": "tikuri",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to contain",
+          "to surround"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "tiidi",
+      "kuri"
+    ]
+  },
+  {
+    "word": "tikuriuka",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "container",
+          "\"Thing which contains\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "tikuri",
+      "uka"
+    ]
+  },
+  {
+    "word": "ufazu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to mix",
+          "to combine",
+          "to weave (fabrics)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "fitazu"
+    ]
+  },
+  {
+    "word": "laufana",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "fabric, cloth",
+          "woven material"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lana",
+      "ufazu"
+    ]
+  },
+  {
+    "word": "zhuti",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "step, pace",
+          "span",
+          "interval"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ramuti",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "time",
+          "literally \"sunlight-step\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zurami",
+      "zhuti"
+    ]
+  },
+  {
+    "word": "vadri",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to walk",
+          "to move (from place to place)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "limau",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "bell",
+          "A metallic object which creates noise",
+          "gong (in some cases)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "filima",
+      "auti"
+    ]
+  },
+  {
+    "word": "limaufi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "glockenspiel (instrument)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "limau",
+      "mufi"
+    ]
+  },
+  {
+    "word": "fizha",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "dial, numbered display",
+          "a knob you rotate to select a setting"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "amizha"
+    ]
+  },
+  {
+    "word": "fizhimau",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "clock",
+          "literally \"bell-dial\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "fizha",
+      "limau"
+    ]
+  },
+  {
+    "word": "fizhuru",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "sundial"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "fizha",
+      "zuru"
+    ]
+  },
+  {
+    "word": "liliaubi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "library, literally \"house of books\" (shortened)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lilia",
+      "vuubi"
+    ]
+  },
+  {
+    "word": "bizali",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to sing"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lalali"
+    ]
+  },
+  {
+    "word": "thiva",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "glass"
+        ]
+      },
+      {
+        "type": "genitive",
+        "definition": [
+          "glassy",
+          "having the properties of glass"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ravabu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to hate",
+          "to dislike"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tamuri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "land"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zhamuri"
+    ]
+  },
+  {
+    "word": "piniri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "wing"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fimavu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "feather"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "wing"
+    ]
+  },
+  {
+    "word": "fikumuta",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "pen",
+          "ink-based writing implement"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "fimavu"
+    ]
+  },
+  {
+    "word": "tagili",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "tail"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fikugili",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "pencil",
+          "graphite-based writing implement"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "fikumuta",
+      "tagili"
+    ]
+  },
+  {
+    "word": "iuli",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "colour, hue",
+          "color"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tiba",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to use"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "branumuri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "France"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "brania",
+      "tamuri"
+    ]
+  },
+  {
+    "word": "inagumuri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "England"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "inagia",
+      "tamuri"
+    ]
+  },
+  {
+    "word": "bibumuri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "Spain"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "bibami",
+      "tamuri"
+    ]
+  },
+  {
+    "word": "kafua",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "coffee (the drink)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "guizha",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "wood"
+        ]
+      },
+      {
+        "type": "genitive",
+        "definition": [
+          "wooden",
+          "having the properties of wood"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dizapi",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "sorry"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "daugu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to lie",
+          "to misinform"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "niami",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to learn",
+          "to memorise",
+          "to be taught"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "niamiuma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "learner",
+          "student",
+          "\"one who learns\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "niami",
+      "uma"
+    ]
+  },
+  {
+    "word": "kilau",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to teach",
+          "to instruct",
+          "to impart"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kilauma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "teacher",
+          "instructor",
+          "\"one who teaches\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "kilau",
+      "uma"
+    ]
+  },
+  {
+    "word": "niiubi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "school, literally \"building of learning\" (shortened)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "niami",
+      "vuubi"
+    ]
+  },
+  {
+    "word": "ravabuma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "hater",
+          "\"one who hates\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ravabu",
+      "uma"
+    ]
+  },
+  {
+    "word": "bilivuma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "enjoyer",
+          "\"one who likes\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "bilivu",
+      "uma"
+    ]
+  },
+  {
+    "word": "zhibalia",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to read",
+          "to interpret"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zhiba",
+      "lilia"
+    ]
+  },
+  {
+    "word": "zhibaliauma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "reader",
+          "\"one who reads\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zhibalia",
+      "uma"
+    ]
+  },
+  {
+    "word": "tibauma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "user",
+          "\"one who uses\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "tiba",
+      "uma"
+    ]
+  },
+  {
+    "word": "pakuli",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "black, the colour"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "dark coloured",
+          "burnt, ashen"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "pazuva",
+      "iuli"
+    ]
+  },
+  {
+    "word": "kuaimi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "white, the colour"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "light coloured",
+          "bleached"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lami",
+      "iuli"
+    ]
+  },
+  {
+    "word": "ari",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "blood"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arudi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "red, the colour"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "blood coloured",
+          "dangerous"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ari",
+      "iuli"
+    ]
+  },
+  {
+    "word": "fazha",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "plant, that grows naturally",
+          "bush",
+          "shrub"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zhau"
+    ]
+  },
+  {
+    "word": "fazhuli",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "green, the colour",
+          "a lighter shade of green"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "plant coloured",
+          "living, growing"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "fazha",
+      "iuli"
+    ]
+  },
+  {
+    "word": "giami",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to shine"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "giluma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "gold",
+          "a shiny metal"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "giami",
+      "filima"
+    ]
+  },
+  {
+    "word": "giluli",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "gold coloured",
+          "a deep, shiny yellow"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "giluma",
+      "iuli"
+    ]
+  },
+  {
+    "word": "zuruli",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "yellow, the colour"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "sun coloured",
+          "aged, or sun damaged"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zuru",
+      "iuli"
+    ]
+  },
+  {
+    "word": "duzhau",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "tree",
+          "tall wooden trunk with lateral branches"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kazha",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to sit"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kathizha",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "chair",
+          "seat"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "kazha"
+    ]
+  },
+  {
+    "word": "balizu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "skill",
+          "applied knowledge"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to craft",
+          "(to make with skill)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "balia",
+      "fitazu"
+    ]
+  },
+  {
+    "word": "balizuma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "artisan",
+          "crafter",
+          "\"one who crafts\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "balizu",
+      "uma"
+    ]
+  },
+  {
+    "word": "fitazuma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "maker",
+          "producer",
+          "\"one who makes\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "fitazu",
+      "uma"
+    ]
+  },
+  {
+    "word": "baliguku",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "art",
+          "work made with skill"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "balizu",
+      "aguku"
+    ]
+  },
+  {
+    "word": "vani",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "new"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "azuvani",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "tomorrow",
+          "\"new dawn\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "azumi",
+      "vani"
+    ]
+  },
+  {
+    "word": "aguku",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "work",
+          "tasks to be done"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agukuma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "worker",
+          "employee",
+          "\"one who works\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "aguku",
+      "uma"
+    ]
+  },
+  {
+    "word": "gukari",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "product",
+          "ware (hardware)",
+          "work (artwork)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "aguku",
+      "kuri"
+    ]
+  },
+  {
+    "word": "zubu",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "sad",
+          "unhappy"
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": [
+          "sadness"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "giukuri",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "heavy",
+          "having weight"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "giukiu",
+      "kuri"
+    ]
+  },
+  {
+    "word": "giukiu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "weight",
+          "relative mass"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nugi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "enough",
+          "sufficient"
+        ]
+      },
+      {
+        "type": "adverb",
+        "definition": [
+          "enough",
+          "adequate"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nugiazu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to satisfy",
+          "to fulfil",
+          "to meet (a standard)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "nugi",
+      "fitazu"
+    ]
+  },
+  {
+    "word": "fizhimau fu",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "o'clock",
+          "on the clock, according to the clock"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kupata",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "fear",
+          "terror"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to fear",
+          "to be afraid"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pakuzu",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "sombre",
+          "somber",
+          "\"under the shade\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "pazuva",
+      "ikuzu"
+    ]
+  },
+  {
+    "word": "makiuma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "mother",
+          "female parent"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ki",
+      "uma"
+    ]
+  },
+  {
+    "word": "bakiuma",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "father",
+          "male parent"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ki",
+      "uma"
+    ]
+  },
+  {
+    "word": "ibu",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "up",
+          "upwards direction"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "itumi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "hill",
+          "raised land"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ibu",
+      "tamuri"
+    ]
+  },
+  {
+    "word": "ukumi",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "down",
+          "downwards direction"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ikuzu",
+      "itumi"
+    ]
+  },
+  {
+    "word": "tamuthi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "property",
+          "owned land"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "tamuri",
+      "kuthi"
+    ]
+  },
+  {
+    "word": "ilazu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "north",
+          "left of the rising sun"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "lauma",
+      "azumi"
+    ]
+  },
+  {
+    "word": "zuina",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "south",
+          "right of the rising sun"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "riuna",
+      "azumi"
+    ]
+  },
+  {
+    "word": "azuki",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "east",
+          "facing the rising sun"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "kamu",
+      "azumi"
+    ]
+  },
+  {
+    "word": "pulumi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "west",
+          "looking at the setting sun"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "bulu",
+      "pazumi"
+    ]
+  },
+  {
+    "word": "azumuri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "Japan"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "azumi",
+      "tamuri"
+    ]
+  },
+  {
+    "word": "zhutimuri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "Korea"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zhutiu",
+      "tamuri"
+    ]
+  },
+  {
+    "word": "kafiraki",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "different",
+          "distinct"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kaipu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "head"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "akatanami",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "number",
+          "digit"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "nua",
+      "aka",
+      "futa",
+      "mana",
+      "kumi"
+    ]
+  },
+  {
+    "word": "katiu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "finish",
+          "ending"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to finish",
+          "to end"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "favu",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "other",
+          "second"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "2"
+    ]
+  },
+  {
+    "word": "kafu",
+    "data": [
+      {
+        "type": "determiner",
+        "definition": [
+          "both",
+          "the two"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ka",
+      "futa"
+    ]
+  },
+  {
+    "word": "vadrikafu",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "ambiguous",
+          "uncertain"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "vadri",
+      "kafu"
+    ]
+  },
+  {
+    "word": "grazi",
+    "data": [
+      {
+        "type": "determiner",
+        "definition": [
+          "all",
+          "total"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bakradi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "person",
+          "individual human"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prakamu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "character",
+          "description"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "pira",
+      "kamu"
+    ]
+  },
+  {
+    "word": "pira",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "out",
+          "(Directional)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "funi",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "in",
+          "(Directional)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "du",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "at",
+          "specific location in space or in time",
+          "\"at home\", \"at 3 o'clock\""
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ma",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "in",
+          "non-specific location in space",
+          "time interval relative to the current time",
+          "\"in Mexico\", \"in an hour\""
+        ]
+      }
+    ]
+  },
+  {
+    "word": "umida",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to rise",
+          "to move upwards"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "braki",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "mango (orange fruit) (very sweet)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pika",
+    "data": [
+      {
+        "type": "determiner",
+        "definition": [
+          "some"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "luma",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "away",
+          "(directional)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zumliba",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "rain"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "upri",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to fall",
+          "to descend"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lirita",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "soon",
+          "in a short time"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "liri"
+    ]
+  },
+  {
+    "word": "liri",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "small",
+          "little"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abari",
+    "data": [
+      {
+        "type": "determiner",
+        "definition": [
+          "few"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "guti",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "big",
+          "large"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wogiguti",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "amazing"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "wogi",
+      "guti"
+    ]
+  },
+  {
+    "word": "kutri",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to owe"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kutriba",
+    "data": [
+      {
+        "type": "auxillary",
+        "definition": [
+          "should",
+          "ought to"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "kutri",
+      "b"
+    ]
+  },
+  {
+    "word": "zati",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to play",
+          "(an activity for recreation)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wogivani",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "hope",
+          "anticipation for the future"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "wogi",
+      "vani"
+    ]
+  },
+  {
+    "word": "wogivuri",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "hopeful",
+          "having hope"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "wogivani",
+      "kuri"
+    ]
+  },
+  {
+    "word": "fana",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "life"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to live"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "fazha",
+      "nathi"
+    ]
+  },
+  {
+    "word": "zhugati",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "long",
+          "of great length"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zhuti",
+      "guti"
+    ]
+  },
+  {
+    "word": "zhuri",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "short",
+          "of small length"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zhuti",
+      "liri"
+    ]
+  },
+  {
+    "word": "katigati",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "slow",
+          "long to end"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "katiu",
+      "zhugati"
+    ]
+  },
+  {
+    "word": "tizhuri",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "fast",
+          "short to end"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "katiu",
+      "zhuri"
+    ]
+  },
+  {
+    "word": "vita",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "around",
+          "(directional)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tuthi",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "joined",
+          "added",
+          "attached"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to join",
+          "to add",
+          "to attach",
+          "to accumulate"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gazhi",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "same",
+          "alike"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bakugiizha",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "yesterday",
+          "\"old day\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "bakugi",
+      "amizha"
+    ]
+  },
+  {
+    "word": "avuri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "side land",
+          "location beside [something], separate from thing itself",
+          "often used in place names"
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": [
+          "a stretch of land beside [something] (archaic use)",
+          "land surrounding an important location to be reserved for use (archaic use)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "tamuri"
+    ]
+  },
+  {
+    "word": "laiga",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "flat",
+          "surface, plane"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "liga",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "ground",
+          "floor"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "laiga"
+    ]
+  },
+  {
+    "word": "fazhali",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "grass",
+          "\"floor plant\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "fazha",
+      "liga"
+    ]
+  },
+  {
+    "word": "nauki",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "cut",
+          "separated piece"
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": [
+          "to cut",
+          "to split",
+          "to separate"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "naizha",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "unit",
+          "building block",
+          "brick",
+          "a cut chunk of wood (archaic use)"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "nauki",
+      "guizha"
+    ]
+  },
+  {
+    "word": "aigi",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "loose",
+          "not secure"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "thadukuzu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "deep rock",
+          "bedrock"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "thaduku",
+      "ikuzu"
+    ]
+  },
+  {
+    "word": "naigaku",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "liquid"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "nai",
+      "gaku"
+    ]
+  },
+  {
+    "word": "ranaiku",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "lava",
+          "molten rock",
+          "\"liquid fire\""
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "rani",
+      "naigaku"
+    ]
+  },
+  {
+    "word": "kanari",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "country",
+          "nation",
+          "empire"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ka",
+      "avuri"
+    ]
+  },
+  {
+    "word": "mumu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "coal",
+          "carbon"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "filimari",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "iron",
+          "hematite"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "filima",
+      "ari"
+    ]
+  },
+  {
+    "word": "bulami",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "method"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "budu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "log",
+          "trunk"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "naukiuka",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "cutter",
+          "\"Thing which cuts\""
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dimiu",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to grind",
+          "to pulverise (into powder)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "diu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "powder",
+          "fine dust"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "dimiu"
+    ]
+  },
+  {
+    "word": "diuku",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "sand"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "thaduku",
+      "diu"
+    ]
+  },
+  {
+    "word": "zumuli",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "azure, the colour",
+          "a lighter shade of blue"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "sky coloured",
+          "free, lightweight"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "zumi",
+      "iuli"
+    ]
+  },
+  {
+    "word": "namauli",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "navy blue, the colour",
+          "a darker shade of blue"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "deep ocean coloured",
+          "turbulent, weighted"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "namai",
+      "iuli"
+    ]
+  },
+  {
+    "word": "atui",
+    "data": [
+      {
+        "type": "adjective",
+        "definition": [
+          "dull",
+          "blunt",
+          "useless"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "atuli",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "gray, the colour"
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": [
+          "dull coloured",
+          "desaturated, drained"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "atui",
+      "iuli"
+    ]
+  },
+  {
+    "word": "zazhu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "sheep",
+          "wooly animal"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "diaka",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "flour",
+          "ground grain"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "diu",
+      "taika"
+    ]
+  },
+  {
+    "word": "diakazha",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "wheat",
+          "barley"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "diaka",
+      "fazha"
+    ]
+  },
+  {
+    "word": "baliga",
+    "data": [
+      {
+        "type": "auxillary",
+        "definition": [
+          "can",
+          "able to [verb]"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "balia",
+      "g"
+    ]
+  },
+  {
+    "word": "zifi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "friend",
+          "comrade"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "akamuri amizha",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "Birthday, as in \"Happy Birthday\""
+        ]
+      },
+      {
+        "type": "compound",
+        "definition": [
+          "start + day"
+        ],
+        "derivedFrom": [
+          "akamuri",
+          "amizha"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "krizubadibri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "Christmas"
+        ]
+      },
+      {
+        "type": "compound",
+        "definition": [
+          "Christ + gathering"
+        ],
+        "derivedFrom": [
+          "krizu",
+          "badimabri"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tinaka mazhi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "potion"
+        ]
+      },
+      {
+        "type": "compound",
+        "definition": [
+          "magic + drink"
+        ],
+        "derivedFrom": [
+          "tinaka",
+          "mazhi"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aguku zhiba",
+    "data": [
+      {
+        "type": "verb",
+        "definition": [
+          "to do work"
+        ]
+      },
+      {
+        "type": "compound",
+        "definition": [
+          "work + to do"
+        ],
+        "derivedFrom": [
+          "aguku",
+          "zhiba"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "niri amizha",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "today",
+          "Note: you can also just use \"day\" to mean today"
+        ]
+      },
+      {
+        "type": "compound",
+        "definition": [
+          "this + day"
+        ],
+        "derivedFrom": [
+          "niri",
+          "amizha"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhutiaka",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "once"
+        ]
+      },
+      {
+        "type": "compound",
+        "definition": [
+          "one + interval"
+        ],
+        "derivedFrom": [
+          "zhuti",
+          "1"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhutifuta",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "twice"
+        ]
+      },
+      {
+        "type": "compound",
+        "definition": [
+          "two + interval"
+        ],
+        "derivedFrom": [
+          "zhuti",
+          "2"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhutimana",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "thrice"
+        ]
+      },
+      {
+        "type": "compound",
+        "definition": [
+          "three + interval"
+        ],
+        "derivedFrom": [
+          "zhuti",
+          "3"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "b",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "Past tense verb suffix"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "d",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "Future tense verb suffix"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "g",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "Present tense verb suffix"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "m",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "Nominalisation suffix",
+          "Subject/Topic Marker"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "n",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "plural noun suffix"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ng",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "Proper noun suffix"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "maba",
+    "data": [
+      {
+        "type": "auxillary",
+        "definition": [
+          "not",
+          "Negative Auxillary Verb"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ra",
+    "data": [
+      {
+        "type": "prefix",
+        "definition": [
+          "Imperfective modifier verb prefix, for verbs that end in /a/"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pi",
+    "data": [
+      {
+        "type": "prefix",
+        "definition": [
+          "Imperfective modifier verb prefix, for verbs that end in /i/"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mu",
+    "data": [
+      {
+        "type": "prefix",
+        "definition": [
+          "Imperfective modifier verb prefix, for verbs that end in /u/"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "iu",
+    "data": [
+      {
+        "type": "auxillary",
+        "definition": [
+          "?",
+          "Interrogative particle"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pa",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "!",
+          "Imperative mood",
+          "Command, instruction, request"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ru",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "Infinitive form",
+          "turns a verb into an adjective",
+          "eg. \"happy [to go]\" or \"problem [to solve]\""
+        ]
+      }
+    ]
+  },
+  {
+    "word": "niri",
+    "data": [
+      {
+        "type": "demonstrative",
+        "definition": [
+          "this",
+          "Object closest to the first person"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "navu",
+    "data": [
+      {
+        "type": "demonstrative",
+        "definition": [
+          "that",
+          "Object closest to the second person"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nuza",
+    "data": [
+      {
+        "type": "demonstrative",
+        "definition": [
+          "that over there",
+          "Object closest to the third person"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "na",
+    "data": [
+      {
+        "type": "determiner",
+        "definition": [
+          "the (thing)",
+          "Definite article"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "navu"
+    ]
+  },
+  {
+    "word": "ka",
+    "data": [
+      {
+        "type": "demonstrative",
+        "definition": [
+          "a (thing)",
+          "indefinite article"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "aka"
+    ]
+  },
+  {
+    "word": "mi",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "(Pronoun) I, me",
+          "First person marker"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zu",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "(Pronoun) You",
+          "Second person marker"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nari",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "(Pronoun) He, him",
+          "Third person marker (male)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nuri",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "(Pronoun) She, her",
+          "Third person marker (female)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ti",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "(Pronoun) it (when referring to an object)",
+          "Third person marker (inanimate)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "miadu",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "to",
+          "going toward (some thing or place)",
+          "(Directional)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mairi",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "from",
+          "coming from (some thing or place)",
+          "(Directional)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "izi",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "also (particle)",
+          "too, as well"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mika",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "-ation",
+          "nominalisation particle",
+          "noun-verb phrase suffix"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nalu",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "Name honorific, to show respect to someone with more experience"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zhibi",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "Name honorific, to acknowledge a person's interest in your experience"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fu",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "of",
+          "Possessive Marker",
+          "Genitive Marker"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "liza",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "what",
+          "Interrogative pronoun, also technically a determiner"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nibi",
+    "data": [
+      {
+        "type": "demonstrative",
+        "definition": [
+          "here",
+          "Location closest to the first person"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nabu",
+    "data": [
+      {
+        "type": "demonstrative",
+        "definition": [
+          "there",
+          "Location closest to the second person"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nuaba",
+    "data": [
+      {
+        "type": "demonstrative",
+        "definition": [
+          "over there",
+          "Location closest to the third person"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "liza giba",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "where, \"what place\"",
+          "Locational interrogative"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "liza bulami",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "how, \"what method\"",
+          "operational interrogative"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "liza bakradi",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "who, \"what person\"",
+          "personal interrogative"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tu",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "and",
+          "accumulative particle"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gaku",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "-like (water-like, tough-like)",
+          "similie or comparison marker"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "piku",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "very"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "kiia",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "When",
+          "(statement 1), when (statement 2)"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "iuku",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "yet"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bakub",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "(Grammar) Name of the past-tense suffix, /b/"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "b"
+    ]
+  },
+  {
+    "word": "tumad",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "(Grammar) Name of the future-tense suffix, /d/"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "d"
+    ]
+  },
+  {
+    "word": "nazig",
+    "data": [
+      {
+        "type": "noun",
+        "definition": [
+          "(Grammar) Name of the present-tense suffix, /g/"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "g"
+    ]
+  },
+  {
+    "word": "dili",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "but, however",
+          "used to introduce a statement that contrasts with a previous or following statement"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "uma",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "-er",
+          "denotes a person who performs the activity, \"one who [verb]s\""
+        ]
+      }
+    ]
+  },
+  {
+    "word": "uka",
+    "data": [
+      {
+        "type": "suffix",
+        "definition": [
+          "-er",
+          "denotes a thing who performs the activity, \"thing which [verb]s\""
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ikuzu",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "under",
+          "below"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bufani",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "over",
+          "above"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "ibu"
+    ]
+  },
+  {
+    "word": "kafi",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "or",
+          "conjunctive particle to link alternatives"
+        ]
+      }
+    ],
+    "derivedFrom": [
+      "kafiraki"
+    ]
+  },
+  {
+    "word": "kika",
+    "data": [
+      {
+        "type": "adverb",
+        "definition": [
+          "again"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ina",
+    "data": [
+      {
+        "type": "postposition",
+        "definition": [
+          "for",
+          "used to mark the \"why\" of something",
+          "indicates the reason for some object or action"
+        ]
+      }
+    ]
+  }
+]
