@@ -1,4 +1,39 @@
-[
+{
+  "alphabet": [
+    "a", "i", "u",
+
+    "la", "li", "lu",
+    "ma", "mi", "mu",
+    "fa", "fi", "fu",
+    "tha", "thi", "thu",
+    "za", "zi", "zu",
+    "pa", "pi", "pu",
+    "ta", "ti", "tu",
+    "ka", "ki", "ku",
+    "b", "d", "g",
+
+    "ra", "ri", "ru",
+    "na", "ni", "nu",
+    "va", "vi", "vu",
+    "zha", "zhi", "zhu",
+    "wo", "yo", " ",
+    "ba", "bi", "bu",
+    "da", "di", "du",
+    "ga", "gi", "gu",
+    "m", "n", "ng",
+
+    "mla", "mli", "mlu",
+
+    "pra", "pri", "pru",
+    "tra", "tri", "tru",
+    "kra", "kri", "kru",
+
+    "bra", "bri", "bru",
+    "dra", "dri", "dru",
+    "gra", "gri", "gru"
+  ],
+  
+  "wordlist": [
   {
     "word": "lia",
     "data": [
@@ -4948,3 +4983,4 @@
     ]
   }
 ]
+}
