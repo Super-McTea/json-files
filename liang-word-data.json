@@ -32,6 +32,249 @@
         "dra", "dri", "dru",
         "gra", "gri", "gru"
     ],
+
+    "numberlist": [
+        {
+            "number": 0,
+            "data": [
+                {
+                    "type": "counting",
+                    "word": "nua"
+                },
+                {
+                    "type": "disjunctive",
+                    "word": "naumi"
+                },
+                {
+                    "type": "ordinal",
+                    "word": "nauvu"
+                }
+            ]
+        },
+        {
+            "number": 1,
+            "data": [
+                {
+                    "type": "counting",
+                    "word": "aka"
+                },
+                {
+                    "type": "disjunctive",
+                    "word": "akami"
+                },
+                {
+                    "type": "ordinal",
+                    "word": "avu"
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "data": [
+                {
+                    "type": "counting",
+                    "word": "futa"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "fumi"
+                },
+                {
+                   "type": "ordinal",
+                   "word": "favu"
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "data": [
+                {
+                   "type": "counting",
+                   "word": "mana"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "mami"
+                },
+                {
+                   "type":"ordinal",
+                   "word": "mavu"
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "data": [
+                {
+                   "type": "counting",
+                   "word": "kumi"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "kumi"
+                },
+                {
+                   "type":"ordinal",
+                   "word": "kuvu"
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "data": [
+                {
+                   "type": "counting",
+                   "word": "mia"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "mimi"
+                },
+                {
+                   "type":"ordinal",
+                   "word": "mivu"
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "data": [
+                {
+                   "type": "counting",
+                   "word": "nuka"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "numi"
+                },
+                {
+                   "type":"ordinal",
+                   "word": "nuvu"
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "data": [
+                {
+                   "type": "counting",
+                   "word": "rita"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "rimi"
+                },
+                {
+                   "type":"ordinal",
+                   "word": "rivu"
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "data": [
+                {
+                   "type": "counting",
+                   "word": "buna"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "bumi"
+                },
+                {
+                   "type":"ordinal",
+                   "word": "buvu"
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "data": [
+                {
+                   "type": "counting",
+                   "word": "dami"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "dami"
+                },
+                {
+                   "type":"ordinal",
+                   "word": "davu"
+                }
+            ]
+        },
+
+
+        {
+            "number": 10,
+            "data": [
+                {
+                   "type": "counting",
+                   "word": "gi"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "gimi"
+                },
+                {
+                   "type":"ordinal",
+                   "word": "givu"
+                }
+            ]
+        },
+        {
+            "number": 100,
+            "data": [
+                {
+                   "type": "counting",
+                   "word": "ti"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "timi"
+                },
+                {
+                   "type":"ordinal",
+                   "word": "tivu"
+                }
+            ]
+        },
+        {
+            "number": 1000,
+            "data": [
+                {
+                   "type": "counting",
+                   "word": "za"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "zami"
+                },
+                {
+                   "type":"ordinal",
+                   "word": "zavu"
+                }
+            ]
+        },
+        {
+            "number": 1000000,
+            "data": [
+                {
+                   "type": "counting",
+                   "word": "mili"
+                },
+                {
+                   "type": "disjunctive",
+                   "word": "milimi"
+                },
+                {
+                   "type":"ordinal",
+                   "word": "milivu"
+                }
+            ]
+        }
+    ],
     
     "wordlist": [
     {
@@ -4172,7 +4415,8 @@
             "type": "noun",
             "definition": [
             "sight",
-            "vision"
+            "vision",
+            "concept of seeing"
             ]
         }
         ],
@@ -4226,6 +4470,22 @@
             "buluni"
             ]
         }
+        ]
+    },
+
+    {
+        "word": "zhibani",
+        "data": [
+        {
+            "type": "noun",
+            "definition": [
+            "action",
+            "concept of doing"
+            ]
+        }
+        ],
+        "derivedFrom": [
+            "zhiba"
         ]
     },
 
