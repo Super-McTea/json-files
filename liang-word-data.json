@@ -4489,6 +4489,88 @@
         ]
     },
 
+    {
+        "word": "garali",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "fox"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kara",
+            "giluli"
+        ]
+    },
+
+    {
+        "word": "bau",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to jump",
+                    "to leap"
+                ]
+            }
+        ]
+    },
+
+    {
+        "word": "diliguli",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "brown, the colour"
+                ]
+            },
+            {
+                "type": "adjective",
+                "definition": [
+                    "dirt coloured",
+                    "earthen, grounded"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "diliga",
+            "iuli"
+        ]
+    },
+
+    {
+        "word": "diliga",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "dirt",
+                    "soil"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "diu",
+            "liga"
+        ]
+    },
+
+    {
+        "word": "ridiga",
+        "data": [
+            {
+                "type": "adjective",
+                "definition": [
+                    "lazy",
+                    "idle"
+                ]
+            }
+        ]
+    },
+
 
 
 
