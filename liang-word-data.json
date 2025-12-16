@@ -4570,6 +4570,33 @@
             }
         ]
     },
+    
+    {
+        "word": "gua",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to sell",
+                    "to offer (for purchase)"
+                ]
+            }
+        ]
+    },
+    
+    {
+        "word": "kazu",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to buy",
+                    "to purchase",
+                    "to exchange (currency)"
+                ]
+            }
+        ]
+    },
 
 
 
