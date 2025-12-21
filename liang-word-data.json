@@ -4598,6 +4598,24 @@
         ]
     },
 
+    {
+        "word": "akagi",
+        "data": [
+            {
+                "type": "adverb",
+                "definition": [
+                    "only",
+                    "uniquely",
+                    "\"and nothing else\""
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "aka",
+            "ki"
+        ]
+    },
+
 
 
 
@@ -4724,7 +4742,7 @@
             ],
             "derivedFrom": [
             "zhuti",
-            "1"
+            "aka"
             ]
         }
         ]
@@ -4745,7 +4763,7 @@
             ],
             "derivedFrom": [
             "zhuti",
-            "2"
+            "futa"
             ]
         }
         ]
@@ -4766,7 +4784,7 @@
             ],
             "derivedFrom": [
             "zhuti",
-            "3"
+            "mana"
             ]
         }
         ]
