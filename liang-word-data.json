@@ -4615,7 +4615,52 @@
             "ki"
         ]
     },
-
+    
+    {
+        "word": "turua",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to exchange",
+                    "to replace",
+                    "to swap out"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "tama",
+        "data": [
+            {
+                "type": "adverb",
+                "definition": [
+                    "instead",
+                    "in place (of)"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "turua"
+        ]
+    },
+    
+    {
+        "word": "kuduni",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "arrival",
+                    "ingression"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kuadu"
+        ]
+    },
+    
 
 
 
@@ -5435,6 +5480,51 @@
             "indicates the reason for some object or action"
             ]
         }
+        ]
+    },
+    {
+        "word": "nugi bufani",
+        "data": [
+            {
+                "type": "adjective",
+                "definition": [
+                    "too much",
+                    "excessive"
+                ]
+            },
+            {
+                "type": "compound",
+                "definition": [
+                    "over + enough"
+                ],
+                "derivedFrom": [
+                    "nugi",
+                    "bufani"
+                ]
+            }
+        ]
+    },
+    
+    {
+        "word": "kuduni wogi",
+        "data": [
+            {
+                "type": "exclamation",
+                "definition": [
+                     "welcome",
+                     "a warm greeting"
+                ]
+            },
+            {
+                "type": "compound",
+                "definition": [
+                    "good + arrival"
+                ],
+                "derivedFrom": [
+                    "kuduni",
+                    "wogi"
+                ]
+            }
         ]
     }
     ]
