@@ -4988,7 +4988,7 @@
         "word": "niri",
         "data": [
         {
-            "type": "demonstrative",
+            "type": "determiner",
             "definition": [
             "this",
             "Object closest to the first person"
@@ -5000,7 +5000,7 @@
         "word": "navu",
         "data": [
         {
-            "type": "demonstrative",
+            "type": "determiner",
             "definition": [
             "that",
             "Object closest to the second person"
@@ -5012,7 +5012,7 @@
         "word": "nuza",
         "data": [
         {
-            "type": "demonstrative",
+            "type": "determiner",
             "definition": [
             "that over there",
             "Object closest to the third person"
@@ -5039,7 +5039,7 @@
         "word": "ka",
         "data": [
         {
-            "type": "demonstrative",
+            "type": "determiner",
             "definition": [
             "a (thing)",
             "indefinite article"
@@ -5212,7 +5212,7 @@
         "word": "nibi",
         "data": [
         {
-            "type": "demonstrative",
+            "type": "determiner",
             "definition": [
             "here",
             "Location closest to the first person"
@@ -5224,7 +5224,7 @@
         "word": "nabu",
         "data": [
         {
-            "type": "demonstrative",
+            "type": "determiner",
             "definition": [
             "there",
             "Location closest to the second person"
@@ -5236,7 +5236,7 @@
         "word": "nuaba",
         "data": [
         {
-            "type": "demonstrative",
+            "type": "determiner",
             "definition": [
             "over there",
             "Location closest to the third person"
