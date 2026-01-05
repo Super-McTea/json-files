@@ -4661,6 +4661,36 @@
         ]
     },
     
+    {
+        "word": "tiipa",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to ask",
+                    "to query"
+                ]
+            }
+        ]
+    },
+    
+    {
+        "word": "tipani",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "question",
+                    "query"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "tiipa"
+        ]
+    },
+    
+    
 
 
 
