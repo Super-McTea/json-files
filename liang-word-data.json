@@ -4689,12 +4689,173 @@
             "tiipa"
         ]
     },
+
+    {
+        "word": "akamiamizha",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "Sunday",
+                    "the first day of the week"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "aka",
+            "amizha"
+        ]
+    },
+    {
+        "word": "fumiamizha",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "Monday",
+                    "the second day of the week"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "futa",
+            "amizha"
+        ]
+    },
+    {
+        "word": "mamiamizha",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "Tuesday",
+                    "the third day of the week"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "mana",
+            "amizha"
+        ]
+    },
+    {
+        "word": "kumiamizha",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "Wednesday",
+                    "the fourth day of the week"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kumi",
+            "amizha"
+        ]
+    },
+    {
+        "word": "mimiamizha",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "Thursday",
+                    "the fifth day of the week"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "mia",
+            "amizha"
+        ]
+    },
+    {
+        "word": "numiamizha",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "Friday",
+                    "the sixth day of the week"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "nuka",
+            "amizha"
+        ]
+    },
+    {
+        "word": "rimiamizha",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "Saturday",
+                    "the seventh day of the week"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "rita",
+            "amizha"
+        ]
+    },
+
+    {
+        "word": "inatha",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "reason",
+                    "cause",
+                    "explanation"
+                ]
+            }
+        ]
+    },
     
     
 
 
 
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         "word": "akamuri amizha",
         "data": [
@@ -5184,9 +5345,10 @@
         {
             "type": "postposition",
             "definition": [
-            "-ation",
             "nominalisation particle",
-            "noun-verb phrase suffix"
+            "treats whole phrases like a noun, where \"m\" on its own doesn't quite cut it",
+            "often relegated to poetic uses, such as reversing sentence hierarchy",
+            "\"To be or not to be; that is the question\" is an example of a reversed-hierarchy sentence."
             ]
         }
         ]
@@ -5274,6 +5436,7 @@
         }
         ]
     },
+
     {
         "word": "liza giba",
         "data": [
@@ -5310,6 +5473,19 @@
         }
         ]
     },
+    {
+        "word": "liza inatha",
+        "data": [
+        {
+            "type": "adverb",
+            "definition": [
+            "why, \"what reason\"",
+            "causal interrogative"
+            ]
+        }
+        ]
+    },
+
     {
         "word": "tu",
         "data": [
@@ -5510,6 +5686,9 @@
             "indicates the reason for some object or action"
             ]
         }
+        ],
+        "derivedFrom": [
+            "inatha"
         ]
     },
     {
@@ -5569,6 +5748,169 @@
             ]
         }
         ]
-    }
+    },
+
+    {
+        "word": "itha",
+        "data": [
+        {
+            "type": "postposition",
+            "definition": [
+                "complementiser",
+                "introduces an embedded clause",
+                "\"he cried all night [that] his dog had died\"",
+                "\"I read in the paper [that] it's going to rain\""
+            ]
+        }
+        ],
+        "derivedFrom": [
+            "inatha"
+        ]
+    },
+
+
+        {
+            "word": "aka",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "futa",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "2"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "mana",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "3"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "kumi",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "4"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "mia",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "5"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "nuka",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "6"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "rita",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "7"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "banu",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "8"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "dami",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "9"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "gi",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "10"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "ti",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "100, one hundred"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "za",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "1000, one thousand"
+                    ]
+                }
+            ]
+        },
+        {
+            "word": "mili",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "1,000,000, one million"
+                    ]
+                }
+            ]
+        }
     ]
 }
