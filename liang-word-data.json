@@ -5346,9 +5346,7 @@
             "type": "postposition",
             "definition": [
             "nominalisation particle",
-            "treats whole phrases like a noun, where \"m\" on its own doesn't quite cut it",
-            "often relegated to poetic uses, such as reversing sentence hierarchy",
-            "\"To be or not to be; that is the question\" is an example of a reversed-hierarchy sentence."
+            "converts a verb into its noun form, equivalent to -ing suffix in English."
             ]
         }
         ]
@@ -5735,19 +5733,6 @@
                     "wogi"
                 ]
             }
-        ]
-    },
-    {
-        "word": "izhi",
-        "data": [
-        {
-            "type": "suffix",
-            "definition": [
-            "-ing",
-            "nominalisation",
-            "denotes \"the act of\" performing some verb"
-            ]
-        }
         ]
     },
 
