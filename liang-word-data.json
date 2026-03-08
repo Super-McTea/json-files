@@ -4804,8 +4804,119 @@
             }
         ]
     },
+
+    {
+        "word": "tukibulami",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "horse stable"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "tuki",
+            "bulami"
+        ]
+    },
+
+    {
+        "word": "naruga",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to help",
+                    "to assist",
+                    "to aid"
+                ]
+            }
+        ]
+    },
     
-    
+    {
+        "word": "gurudi",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "wheel"
+                ]
+            }
+        ]
+    },
+
+    {
+        "word": "lanaguru",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "stringwheel",
+                    "wheeled string instrument",
+                    "hurdy gurdy"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "lana",
+            "gurudi"
+        ]
+    },
+
+    {
+        "word": "naridi",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "male",
+                    "man",
+                    "boy"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "nari",
+            "bakradi"
+        ]
+    },
+
+    {
+        "word": "nuridi",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "female",
+                    "woman",
+                    "girl"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "nuri",
+            "bakradi"
+        ]
+    },
+
+    {
+        "word": "tadai",
+        "data": [
+            {
+                "type": "auxillary",
+                "definition": [
+                    "want",
+                    "want to [verb]"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "tazha",
+            "d"
+        ]
+    },
 
 
 
@@ -5744,12 +5855,25 @@
 
 
         {
+            "word": "nua",
+            "data": [
+                {
+                    "type": "number",
+                    "definition": [
+                        "0",
+                        "zero"
+                    ]
+                }
+            ]
+        },
+        {
             "word": "aka",
             "data": [
                 {
                     "type": "number",
                     "definition": [
-                        "1"
+                        "1",
+                        "one"
                     ]
                 }
             ]
@@ -5760,7 +5884,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "2"
+                        "2",
+                        "two"
                     ]
                 }
             ]
@@ -5771,7 +5896,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "3"
+                        "3",
+                        "three"
                     ]
                 }
             ]
@@ -5782,7 +5908,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "4"
+                        "4",
+                        "four"
                     ]
                 }
             ]
@@ -5793,7 +5920,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "5"
+                        "5",
+                        "five"
                     ]
                 }
             ]
@@ -5804,7 +5932,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "6"
+                        "6",
+                        "six"
                     ]
                 }
             ]
@@ -5815,7 +5944,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "7"
+                        "7",
+                        "seven"
                     ]
                 }
             ]
@@ -5826,7 +5956,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "8"
+                        "8",
+                        "eight"
                     ]
                 }
             ]
@@ -5837,7 +5968,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "9"
+                        "9",
+                        "nine"
                     ]
                 }
             ]
@@ -5848,7 +5980,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "10"
+                        "10",
+                        "ten"
                     ]
                 }
             ]
@@ -5859,7 +5992,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "100, one hundred"
+                        "100",
+                        "a hundred"
                     ]
                 }
             ]
@@ -5870,7 +6004,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "1000, one thousand"
+                        "1000",
+                        "a thousand"
                     ]
                 }
             ]
@@ -5881,7 +6016,8 @@
                 {
                     "type": "number",
                     "definition": [
-                        "1,000,000, one million"
+                        "1,000,000",
+                        "a million"
                     ]
                 }
             ]
