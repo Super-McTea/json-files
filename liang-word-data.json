@@ -3065,6 +3065,13 @@
             "work",
             "tasks to be done"
             ]
+        },
+        {
+            "type": "verb",
+            "definition": [
+            "to work",
+            "to progress a task"
+            ]
         }
         ]
     },
@@ -5014,27 +5021,6 @@
             "derivedFrom": [
             "tinaka",
             "mazhi"
-            ]
-        }
-        ]
-    },
-    {
-        "word": "aguku zhiba",
-        "data": [
-        {
-            "type": "verb",
-            "definition": [
-            "to do work"
-            ]
-        },
-        {
-            "type": "compound",
-            "definition": [
-            "work + to do"
-            ],
-            "derivedFrom": [
-            "aguku",
-            "zhiba"
             ]
         }
         ]
