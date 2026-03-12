@@ -296,7 +296,9 @@
         {
             "type": "verb",
             "definition": [
-            "to speak, literally to make word"
+            "to speak, literally to make word",
+            "to talk",
+            "to say"
             ]
         }
         ]
@@ -4922,6 +4924,125 @@
         "derivedFrom": [
             "tazha",
             "d"
+        ]
+    },
+
+    {
+        "word": "duguni",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "a lie",
+                    "misinformation"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "daugu"
+        ]
+    },
+
+    {
+        "word": "idilu",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "paint",
+                    "pigment"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "iuli",
+            "diu"
+        ]
+    },
+    {
+        "word": "idiliba",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to draw",
+                    "to paint",
+                    "to use pigments"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "idilu",
+            "tiba"
+        ]
+    },
+    {
+        "word": "idaizha",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "a drawing",
+                    "a painting",
+                    "\"pigment on wood\" (archaic use)"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "idilu",
+            "naizha"
+        ]
+    },
+
+    {
+        "word": "batidaizha",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "portfolio",
+                    "art collection"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "batidi",
+            "idaizha"
+        ]
+    },
+
+    {
+        "word": "ranabi",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "story",
+                    "tale"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "rani",
+            "balia"
+        ]
+    },
+
+    {
+        "word": "ranabiidaizha",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "comic book",
+                    "manga",
+                    "\"drawn-story\""
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "ranabi",
+            "idaizha"
         ]
     },
 
