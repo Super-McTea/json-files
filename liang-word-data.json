@@ -5731,8 +5731,8 @@
         {
             "type": "postposition",
             "definition": [
-            "When",
-            "(statement 1), when (statement 2)"
+            "Then",
+            "(statement 1), then (statement 2)"
             ]
         }
         ]
@@ -5833,7 +5833,8 @@
             "type": "postposition",
             "definition": [
             "under",
-            "below"
+            "below",
+            "less [adjective]"
             ]
         }
         ]
@@ -5845,7 +5846,8 @@
             "type": "postposition",
             "definition": [
             "over",
-            "above"
+            "above",
+            "more [adjective]"
             ]
         }
         ],
@@ -5897,23 +5899,13 @@
         ]
     },
     {
-        "word": "nugi bufani",
+        "word": "navai",
         "data": [
             {
                 "type": "adjective",
                 "definition": [
                     "too much",
                     "excessive"
-                ]
-            },
-            {
-                "type": "compound",
-                "definition": [
-                    "over + enough"
-                ],
-                "derivedFrom": [
-                    "nugi",
-                    "bufani"
                 ]
             }
         ]
