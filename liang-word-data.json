@@ -1083,21 +1083,30 @@
         "word": "mawofu",
         "data": [
         {
-            "type": "noun",
-            "definition": [
-            "appreciation"
-            ]
-        },
-        {
             "type": "verb",
             "definition": [
-            "to appreciate",
-            "to thank"
+            "to thank",
+            "to appreciate"
             ]
         }
         ],
         "derivedFrom": [
         "womu"
+        ]
+    },
+    {
+        "word": "mawofuni",
+        "data": [
+        {
+            "type": "noun",
+            "definition": [
+            "thankfulness",
+            "appreciation"
+            ]
+        }
+        ],
+        "derivedFrom": [
+        "mawofu"
         ]
     },
     {
