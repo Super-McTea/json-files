@@ -2431,48 +2431,7 @@
         "piniri"
         ]
     },
-    {
-        "word": "fikumuta",
-        "data": [
-        {
-            "type": "noun",
-            "definition": [
-            "pen",
-            "ink-based writing implement"
-            ]
-        }
-        ],
-        "derivedFrom": [
-        "fimavu"
-        ]
-    },
-    {
-        "word": "tagili",
-        "data": [
-        {
-            "type": "noun",
-            "definition": [
-            "tail"
-            ]
-        }
-        ]
-    },
-    {
-        "word": "fikugili",
-        "data": [
-        {
-            "type": "noun",
-            "definition": [
-            "pencil",
-            "graphite-based writing implement"
-            ]
-        }
-        ],
-        "derivedFrom": [
-        "fikumuta",
-        "tagili"
-        ]
-    },
+    
     {
         "word": "iuli",
         "data": [
@@ -5052,6 +5011,98 @@
         "derivedFrom": [
             "ranabi",
             "idaizha"
+        ]
+    },
+    
+    {
+        "word": "idulia",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "paintbrush",
+                    "paint-writer"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "idilu",
+            "kulia"
+        ]
+    },
+    {
+        "word": "muta",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "ink",
+                    "black liquid that easily stains"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "mutalia",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "pen",
+                    "quill",
+                    "ink-writer"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "muta",
+            "kulia"
+        ]
+    },
+    {
+        "word": "mumuta",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "inkwell",
+                    "ink bottle"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "muta"
+        ]
+    },
+    
+    {
+        "word": "zhiki",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to rip",
+                    "to tear",
+                    "to carve (flesh)"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "nazhiki",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "meat",
+                    "flesh",
+                    "substance"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "nauki",
+            "zhiki"
         ]
     },
 
