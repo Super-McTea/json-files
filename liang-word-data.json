@@ -5118,6 +5118,111 @@
         ]
     },
 
+    {
+        "word": "rarani",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "explosion",
+                    "big fire"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "rani"
+        ]
+    },
+
+    {
+        "word": "zika",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to contact",
+                    "to touch"
+                ]
+            }
+        ]
+    },
+
+    {
+        "word": "mapu",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to try",
+                    "to attempt"
+                ]
+            }
+        ]
+    },
+
+    {
+        "word": "fulua",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "box",
+                    "barrel"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "fuluguru",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "cart",
+                    "carriage"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "fulua",
+            "gurudi"
+        ]
+    },
+
+    {
+        "word": "kirigaku",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "gas"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kiri",
+            "gaku"
+        ]
+    },
+    {
+        "word": "nakiri",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "steam",
+                    "water vapour"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "nai",
+            "kirigaku"
+        ]
+    },
+
+
+
 
 
 
