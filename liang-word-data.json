@@ -5221,6 +5221,36 @@
         ]
     },
 
+    {
+        "word": "makari",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to cook",
+                    "to bake",
+                    "to prepare (food)"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "ramaki"
+        ]
+    },
+
+    {
+        "word": "vivi",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "star",
+                    "(colloquial) sparkly object"
+                ]
+            }
+        ]
+    },
+
 
 
 
@@ -6294,6 +6324,36 @@
                     "definition": [
                         "1,000,000",
                         "a million"
+                    ]
+                }
+            ]
+        },
+
+        {
+            "word": "utu",
+            "data": [
+                {
+                    "type": "postposition",
+                    "definition": [
+                        "with",
+                        "using",
+                        "possessing",
+                        "including"
+                    ]
+                }
+            ]
+        },
+
+        {
+            "word": "apa",
+            "data": [
+                {
+                    "type": "postposition",
+                    "definition": [
+                        "without",
+                        "against",
+                        "lacking",
+                        "opposing"
                     ]
                 }
             ]
