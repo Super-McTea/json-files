@@ -5251,6 +5251,77 @@
         ]
     },
 
+    {
+        "word": "niruti",
+        "data": [
+            {
+                "type": "adverb",
+                "definition": [
+                    "now",
+                    "at the present time"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "niri",
+            "zhuti"
+        ]
+    },
+
+    {
+        "word": "vaulu",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to burn"
+                ]
+            }
+        ]
+    },
+
+    {
+        "word": "vauluka",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "burner",
+                    "\"thing which burns\""
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "vaulu"
+        ]
+    },
+
+    {
+        "word": "duzi",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "smoke"
+                ]
+            }
+        ]
+    },
+
+    {
+        "word": "filu",
+        "data": [
+            {
+                "type": "adjective",
+                "definition": [
+                    "fat",
+                    "rotund",
+                    "(colloquial) gluttonous"
+                ]
+            }
+        ]
+    },
+
 
 
 
