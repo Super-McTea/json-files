@@ -5437,6 +5437,37 @@
         ]
     },
     
+    {
+        "word": "dipui",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to let",
+                    "to allow",
+                    "to permit"
+                ]
+            }
+        ]
+    },
+    
+    {
+        "word": "dipuni",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "consent",
+                    "clearance",
+                    "permission",
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "dipui"
+        ]
+    },
+    
 
 
 
