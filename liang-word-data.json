@@ -5322,6 +5322,122 @@
         ]
     },
 
+    {
+        "word": "kita",
+        "data": [
+            {
+                "type": "adjective",
+                "definition": [
+                    "straight",
+                    "aligned"
+                ]
+            }
+        ]
+    },
+
+    {
+        "word": "kitaa",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to straighten",
+                    "to align"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kita"
+        ]
+    },
+
+
+    {
+        "word": "kida",
+        "data": [
+            {
+                "type": "adjective",
+                "definition": [
+                    "correct",
+                    "true",
+                    "fair",
+                    "right"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kita"
+        ]
+    },
+
+    {
+        "word": "kidua",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to correct",
+                    "to fix",
+                    "to make fair",
+                    "to make right"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kida"
+        ]
+    },
+
+    {
+        "word": "pui",
+        "data": [
+            {
+                "type": "adjective",
+                "definition": [
+                    "bent",
+                    "crooked",
+                    "misshapen"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "puiu"
+        ]
+    },
+
+    {
+        "word": "puiu",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to bend",
+                    "to curve",
+                    "to misshape"
+                ]
+            }
+        ]
+    },
+
+    {
+        "word": "bui",
+        "data": [
+            {
+                "type": "adjective",
+                "definition": [
+                    "incorrect",
+                    "false",
+                    "unfair",
+                    "wrong"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "pui"
+        ]
+    },
+    
+
 
 
 
