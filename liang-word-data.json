@@ -1135,16 +1135,10 @@
         "word": "wogi",
         "data": [
         {
-            "type": "noun",
+            "type": "adjective",
             "definition": [
             "good",
             "to be desired/approved of"
-            ]
-        },
-        {
-            "type": "adjective",
-            "definition": [
-            "good, see above"
             ]
         }
         ]
@@ -1153,16 +1147,10 @@
         "word": "muda",
         "data": [
         {
-            "type": "noun",
+            "type": "adjective",
             "definition": [
             "bad",
             "unpleasant or unwelcome"
-            ]
-        },
-        {
-            "type": "adjective",
-            "definition": [
-            "bad, see above"
             ]
         }
         ]
@@ -5459,7 +5447,7 @@
                 "definition": [
                     "consent",
                     "clearance",
-                    "permission",
+                    "permission"
                 ]
             }
         ],
