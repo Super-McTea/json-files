@@ -5456,6 +5456,37 @@
         ]
     },
     
+    {
+        "word": "praka",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to characterise",
+                    "to describe"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "prakamu"
+        ]
+    },
+    
+    {
+        "word": "drima",
+        "data": [
+            {
+                "type": "adjective",
+                "definition": [
+                    "full",
+                    "complete",
+                    "whole",
+                    "total"
+                ]
+            }
+        ]
+    },
+    
 
 
 
