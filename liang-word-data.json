@@ -5487,6 +5487,24 @@
         ]
     },
     
+    {
+        "word": "barulu",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to seem",
+                    "to appear",
+                    "to look (like)",
+                    "to resemble"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "bulu"
+        ]
+    },
+    
 
 
 
