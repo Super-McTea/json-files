@@ -6682,6 +6682,19 @@
                     ]
                 }
             ]
+        },
+
+        {
+            "word": "au",
+            "data": [
+                {
+                    "type": "exclamation",
+                    "definition": [
+                        "well...",
+                        "actually..."
+                    ]
+                }
+            ]
         }
     ]
 }
