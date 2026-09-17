@@ -5176,6 +5176,68 @@
             "gurudi"
         ]
     },
+    
+    {
+        "word": "autha",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to protect",
+                    "to preserve"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "authani",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "protection",
+                    "preservation"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "autha"
+        ]
+    },
+    
+    {
+        "word": "kazuma",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "buyer",
+                    "(currency) exchanger"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kazu",
+            "uma"
+        ]
+    },
+    
+    {
+        "word": "kazuma fu authani",
+        "data": [
+            {
+                "type": "compound",
+                "definition": [
+                    "warranty",
+                    "\"buyer's protection\""
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kazuma",
+            "authani"
+        ]
+    },
 
     {
         "word": "kirigaku",
