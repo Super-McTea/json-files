@@ -472,7 +472,7 @@
         "word": "afila",
         "data": [
         {
-            "type": "exclamation",
+            "type": "interjection",
             "definition": [
             "Hello",
             "general greeting"
@@ -487,7 +487,7 @@
         "word": "pavi",
         "data": [
         {
-            "type": "exclamation",
+            "type": "interjection",
             "definition": [
             "Goodbye, farewell"
             ]
@@ -501,7 +501,7 @@
         "word": "ayo",
         "data": [
         {
-            "type": "exclamation",
+            "type": "interjection",
             "definition": [
             "Hi, casual greeting"
             ]
@@ -515,7 +515,7 @@
         "word": "payo",
         "data": [
         {
-            "type": "exclamation",
+            "type": "interjection",
             "definition": [
             "Bye, casual farewell"
             ]
@@ -586,7 +586,7 @@
         "word": "daba",
         "data": [
         {
-            "type": "exclamation",
+            "type": "interjection",
             "definition": [
             "no"
             ]
@@ -597,7 +597,7 @@
         "word": "gizi",
         "data": [
         {
-            "type": "exclamation",
+            "type": "interjection",
             "definition": [
             "yes"
             ]
@@ -6447,7 +6447,7 @@
         "word": "kuduni wogi",
         "data": [
             {
-                "type": "exclamation",
+                "type": "interjection",
                 "definition": [
                      "welcome",
                      "a warm greeting"
@@ -6688,7 +6688,7 @@
             "word": "au",
             "data": [
                 {
-                    "type": "exclamation",
+                    "type": "interjection",
                     "definition": [
                         "well...",
                         "actually..."
