@@ -5566,6 +5566,89 @@
             "bulu"
         ]
     },
+
+    {
+        "word": "kidaluka",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to check",
+                    "to inspect",
+                    "to examine"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kida",
+            "buluka"
+        ]
+    },
+    {
+        "word": "kidalukani",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "test",
+                    "inspection",
+                    "examination"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kidaluka"
+        ]
+    },
+
+    {
+        "word": "lifavu",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to translate (to)",
+                    "to \"other-speak\"",
+                    "to rephrase"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "lia",
+            "favu"
+        ]
+    },
+    {
+        "word": "zhibalivu",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to translate (from)",
+                    "to \"other-read\"",
+                    "to reinterpret"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "zhibalia",
+            "favu"
+        ]
+    },
+    {
+        "word": "lifavuni",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "translation (into)"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "lifavu"
+        ]
+    },
     
 
 
