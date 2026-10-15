@@ -6778,6 +6778,29 @@
                     ]
                 }
             ]
+        },
+
+        {
+            "word": "favu utu",
+            "data": [
+                {
+                    "type": "adverb",
+                    "definition": [
+                        "together",
+                        "with each other"
+                    ]
+                },
+                {
+                    "type": "compound",
+                    "definition": [
+                        "with + other"
+                    ],
+                    "derivedFrom": [
+                        "favu",
+                        "utu"
+                    ]
+                }
+            ]
         }
     ]
 }
