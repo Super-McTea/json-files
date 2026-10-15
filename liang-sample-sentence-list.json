@@ -1,0 +1,1531 @@
+{
+    "reference": "https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html",
+    "sentences": [
+        {
+            "num": 1,
+            "sentence": "The sun shines.",
+            "translation": "na zurum pigiamig",
+            "literal": "the sun often-shines",
+            "notes": ""
+        },
+        {
+            "num": 2,
+            "sentence": "The sun is shining.",
+            "translation": "na zurum giamig",
+            "literal": "the sun is-shining",
+            "notes": ""
+        },
+        {
+            "num": 3,
+            "sentence": "The sun shone.",
+            "translation": "na zurum giamib",
+            "literal": "the sun shone",
+            "notes": ""
+        },
+        {
+            "num": 4,
+            "sentence": "The sun will shine.",
+            "translation": "na zurum giamid",
+            "literal": "the sun will-shine",
+            "notes": ""
+        },
+        {
+            "num": 5,
+            "sentence": "The sun has been shining.",
+            "translation": "na zurum pigiamib",
+            "literal": "the sun was-shining",
+            "notes": ""
+        },
+        {
+            "num": 6,
+            "sentence": "The sun is shining again.",
+            "translation": "na zurum giamig kika",
+            "literal": "the sun is-shining again",
+            "notes": ""
+        },
+        {
+            "num": 7,
+            "sentence": "The sun will shine tomorrow.",
+            "translation": "na zurum giamid azuvani",
+            "literal": "the sun will-shine tomorrow",
+            "notes": ""
+        },
+        {
+            "num": 8,
+            "sentence": "The sun shines brightly.",
+            "translation": "na zurum pigiamig lami",
+            "literal": "the sun often-shines bright",
+            "notes": ""
+        },
+        {
+            "num": 9,
+            "sentence": "The bright sun shines.",
+            "translation": "na zurum lami pigiamig",
+            "literal": "the sun bright often-shines",
+            "notes": ""
+        },
+        {
+            "num": 10,
+            "sentence": "The sun is rising now.",
+            "translation": "na zurum umidag niruti",
+            "literal": "the sun is-rising now",
+            "notes": ""
+        },
+        {
+            "num": 11,
+            "sentence": "All the people shouted.",
+            "translation": "grazi bakradin [ZHAuT]b *",
+            "literal": "all people shouted",
+            "notes": ""
+        },
+        {
+            "num": 12,
+            "sentence": "Some of the people shouted.",
+            "translation": "pika bakradin [ZHAuT]b *",
+            "literal": "some people shouted",
+            "notes": ""
+        },
+        {
+            "num": 13,
+            "sentence": "Many of the people shouted twice.",
+            "translation": "badinu bakradin [ZHAuT]b zhutifuta *",
+            "literal": "many people shouted twice",
+            "notes": ""
+        },
+        {
+            "num": 14,
+            "sentence": "Happy people often shout.",
+            "translation": "bakradi libun mu[ZHAuT]g *",
+            "literal": "people happy often-shout",
+            "notes": ""
+        },
+        {
+            "num": 15,
+            "sentence": "The kitten jumped up.",
+            "translation": "na kara miminim baub ibu *",
+            "literal": "the cat baby jumped upwards",
+            "notes": ""
+        },
+        {
+            "num": 16,
+            "sentence": "The kitten jumped onto the table.",
+            "translation": "na kara miminim na (rimiagi) bufani baub *",
+            "literal": "the cat baby; the table above jumped",
+            "notes": "By placing 'bufani' beside 'table', it's treated as a location relative to the table. Had it been placed after 'jumped', it would have been treated as a direction over the table."
+        },
+        {
+            "num": 17,
+            "sentence": "My little kitten walked away.",
+            "translation": "mi fu kara mimini lirim vadrib luma",
+            "literal": "me <of cat baby little; walked away",
+            "notes": "'of' works in the opposite direction to English, so 'me <of cat' is actually 'cat of> me'. The arrow is to remember direction."
+        },
+        {
+            "num": 18,
+            "sentence": "It's raining.",
+            "translation": "zumlibam uprig",
+            "literal": "rain is-falling",
+            "notes": ""
+        },
+        {
+            "num": 19,
+            "sentence": "The rain came down.",
+            "translation": "na zumlibam kuadub ukumi",
+            "literal": "the rain came downward",
+            "notes": ""
+        },
+        {
+            "num": 20,
+            "sentence": "The kitten is playing in the rain.",
+            "translation": "na kara miminim na zumliba ma zatig",
+            "literal": "the cat baby; the rain <in is-playing",
+            "notes": ""
+        },
+        {
+            "num": 21,
+            "sentence": "The rain has stopped.",
+            "translation": "na zumlibam zhatab",
+            "literal": "the rain stopped",
+            "notes": ""
+        },
+        {
+            "num": 22,
+            "sentence": "Soon the rain will stop.",
+            "translation": "na zumlibam zhatad lirita",
+            "literal": "the rain will-stop soon",
+            "notes": ""
+        },
+        {
+            "num": 23,
+            "sentence": "I hope the rain stops soon.",
+            "translation": "mim wogivani kurig itha na zumlibam zhatad lirita",
+            "literal": "I hope am-having that the rain will-stop soon",
+            "notes": "These two sentences do not have the exact same meaning; while they share the same words, the English one expresses a desire that the Liang one does not."
+        },
+        {
+            "num": 24,
+            "sentence": "Once wild animals lived here.",
+            "translation": "marun niri fanab zhutiaka",
+            "literal": "wild-animals here lived once ",
+            "notes": ""
+        },
+        {
+            "num": 25,
+            "sentence": "Slowly she looked around.",
+            "translation": "nurim bulukab katigati vita",
+            "literal": "she looked slowly around",
+            "notes": "Adverbs go after the verb, and in order of importance to the sentence. Since 'slowly' went first in English, I put it first in Liang as well."
+        },
+        {
+            "num": 26,
+            "sentence": "Go away!",
+            "translation": "gizubagpa luma!",
+            "literal": "be-going away!",
+            "notes": "The -pa suffix is the imperative."
+        },
+        {
+            "num": 27,
+            "sentence": "Let's go!",
+            "translation": "min gizubagpa!",
+            "literal": "us be-going!",
+            "notes": "Not a word-for-word translation, but preserves meaning"
+        },
+        {
+            "num": 28,
+            "sentence": "You should go.",
+            "translation": "zum gizubag kutriba",
+            "literal": "you be-going should",
+            "notes": ""
+        },
+        {
+            "num": 29,
+            "sentence": "I will be happy to go.",
+            "translation": "mim libu kid gizubag ru",
+            "literal": "'to go', being the reason, goes on the end of the phrase as it modifies the meaning and as such functions like an adverb.",
+            "notes": ""
+        },
+        {
+            "num": 30,
+            "sentence": "He will arrive soon.",
+            "translation": "narim kuadud lirita",
+            "literal": "He will-arrive soon",
+            "notes": ""
+        },
+        {
+            "num": 31,
+            "sentence": "The baby's ball has rolled away.",
+            "translation": "na mimini fu [BALL]m [ROLL]b luma",
+            "literal": "the baby <of ball rolled away",
+            "notes": ""
+        },
+        {
+            "num": 32,
+            "sentence": "The two boys are working together.",
+            "translation": "na futa naridi agukug favu utu",
+            "literal": "the two boys are-working other with",
+            "notes": ""
+        },
+        {
+            "num": 33,
+            "sentence": "This mist will probably clear away.",
+            "translation": "nibi [MIST]m [CLEAR]d [PROBABLE]",
+            "literal": "This mist will-clear probably",
+            "notes": "'clear away' was condensed into 'clear'."
+        },
+        {
+            "num": 34,
+            "sentence": "Lovely flowers are growing everywhere.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 35,
+            "sentence": "We should eat more slowly.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 36,
+            "sentence": "You have come too soon.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 37,
+            "sentence": "You must write more neatly.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 38,
+            "sentence": "Directly opposite stands a wonderful palace.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 39,
+            "sentence": "Henry's dog is lost.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 40,
+            "sentence": "My cat is black.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 41,
+            "sentence": "The little girl's doll is broken.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 42,
+            "sentence": "I usually sleep soundly.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 43,
+            "sentence": "The children ran after Jack.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 44,
+            "sentence": "I can play after school.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 45,
+            "sentence": "We went to the village for a visit.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 46,
+            "sentence": "We arrived at the river.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 47,
+            "sentence": "I have been waiting for you.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 48,
+            "sentence": "The campers sat around the fire.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 49,
+            "sentence": "A little girl with a kitten sat near me.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 50,
+            "sentence": "The child waited at the door for her father.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 51,
+            "sentence": "Yesterday the oldest girl in the village lost her kitten.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 52,
+            "sentence": "Were you born in this village?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 53,
+            "sentence": "Can your brother dance well?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 54,
+            "sentence": "Did the man leave?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 55,
+            "sentence": "Is your sister coming for you?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 56,
+            "sentence": "Can you come tomorrow?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 57,
+            "sentence": "Have the neighbors gone away for the winter?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 58,
+            "sentence": "Does the robin sing in the rain?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 59,
+            "sentence": "Are you going with us to the concert?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 60,
+            "sentence": "Have you ever travelled in the jungle?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 61,
+            "sentence": "We sailed down the river for several miles.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 62,
+            "sentence": "Everybody knows about hunting.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 63,
+            "sentence": "On a Sunny morning after the solstice we started for the mountains.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 64,
+            "sentence": "Tom laughed at the monkey's tricks.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 65,
+            "sentence": "An old man with a walking stick stood beside the fence.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 66,
+            "sentence": "The squirrel's nest was hidden by drooping boughs.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 67,
+            "sentence": "The little seeds waited patiently under the snow for the warm spring sun.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 68,
+            "sentence": "Many little girls with wreaths of flowers on their heads danced around the bonfire.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 69,
+            "sentence": "The cover of the basket fell to the floor.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 70,
+            "sentence": "The first boy in the line stopped at the entrance.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 71,
+            "sentence": "On the top of the hill in a little hut lived a wise old woman.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 72,
+            "sentence": "During our residence in the country we often walked in the pastures.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 73,
+            "sentence": "When will your guests from the city arrive?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 74,
+            "sentence": "Near the mouth of the river, its course turns sharply towards the East.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 75,
+            "sentence": "Between the two lofty mountains lay a fertile valley.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 76,
+            "sentence": "Among the wheat grew tall red poppies.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 77,
+            "sentence": "The strong roots of the oak trees were torn from the ground.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 78,
+            "sentence": "The sun looked down through the branches upon the children at play.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 79,
+            "sentence": "The west wind blew across my face like a friendly caress.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 80,
+            "sentence": "The spool of thread rolled across the floor.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 81,
+            "sentence": "A box of growing plants stood in the Window.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 82,
+            "sentence": "I am very happy.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 83,
+            "sentence": "These oranges are juicy.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 84,
+            "sentence": "Sea water is salty.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 85,
+            "sentence": "The streets are full of people.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 86,
+            "sentence": "Sugar tastes sweet.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 87,
+            "sentence": "The fire feels hot.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 88,
+            "sentence": "The little girl seemed lonely.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 89,
+            "sentence": "The little boy's father had once been a sailor.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 90,
+            "sentence": "I have lost my blanket.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 91,
+            "sentence": "A robin has built his nest in the apple tree.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 92,
+            "sentence": "At noon we ate our lunch by the roadside.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 93,
+            "sentence": "Mr. Jones made a knife for his little boy.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 94,
+            "sentence": "Their voices sound very happy.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 95,
+            "sentence": "Is today Monday?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 96,
+            "sentence": "Have all the leaves fallen from the tree?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 97,
+            "sentence": "Will you be ready on time?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 98,
+            "sentence": "Will you send this message for me?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 99,
+            "sentence": "Are you waiting for me?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 100,
+            "sentence": "Is this the first kitten of the litter?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 101,
+            "sentence": "Are these shoes too big for you?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 102,
+            "sentence": "How wide is the River?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 103,
+            "sentence": "Listen.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 104,
+            "sentence": "Sit here by me.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 105,
+            "sentence": "Keep this secret until tomorrow.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 106,
+            "sentence": "Come with us.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 107,
+            "sentence": "Bring your friends with you.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 108,
+            "sentence": "Be careful.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 109,
+            "sentence": "Have some tea.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 110,
+            "sentence": "Pip and his dog were great friends.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 111,
+            "sentence": "John and Elizabeth are brother and sister.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 112,
+            "sentence": "You and I will go together.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 113,
+            "sentence": "They opened all the doors and windows.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 114,
+            "sentence": "He is small, but strong.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 115,
+            "sentence": "Is this tree an oak or a maple?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 116,
+            "sentence": "Does the sky look blue or gray?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 117,
+            "sentence": "Come with your father or mother.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 118,
+            "sentence": "I am tired, but very happy.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 119,
+            "sentence": "He played a tune on his wonderful flute.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 120,
+            "sentence": "Toward the end of August the days grow much shorter.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 121,
+            "sentence": "A company of soldiers marched over the hill and across the meadow.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 122,
+            "sentence": "The first part of the story is very interesting.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 123,
+            "sentence": "The crow dropped some pebbles into the pitcher and raised the water to the brim.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 124,
+            "sentence": "The baby clapped her hands and laughed in glee.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 125,
+            "sentence": "Stop your game and be quiet.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 126,
+            "sentence": "The sound of the drums grew louder and louder.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 127,
+            "sentence": "Do you like summer or winter better?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 128,
+            "sentence": "That boy will have a wonderful trip.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 129,
+            "sentence": "They popped corn, and then sat around the fire and ate it.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 130,
+            "sentence": "They won the first two games, but lost the last one.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 131,
+            "sentence": "Take this note, carry it to your mother; and wait for an answer.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 132,
+            "sentence": "I awoke early, dressed hastily, and went down to breakfast.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 133,
+            "sentence": "Aha! I have caught you!",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 134,
+            "sentence": "This string is too short!",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 135,
+            "sentence": "Oh, dear! the wind has blown my hat away!",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 136,
+            "sentence": "Alas! that news is sad indeed!",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 137,
+            "sentence": "Whew! that cold wind freezes my nose!",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 138,
+            "sentence": "Are you warm enough now?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 139,
+            "sentence": "They heard the warning too late.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 140,
+            "sentence": "We are a brave people, and love our country.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 141,
+            "sentence": "All the children came except Mary.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 142,
+            "sentence": "Jack seized a handful of pebbles and threw them into the lake.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 143,
+            "sentence": "This cottage stood on a low hill, at some distance from the village.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 144,
+            "sentence": "On a fine summer evening, the two old people were sitting outside the door of their cottage.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 145,
+            "sentence": "Our bird's name is Jacko.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 146,
+            "sentence": "The river knows the way to the sea.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 147,
+            "sentence": "The boat sails away, like a bird on the wing.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 148,
+            "sentence": "They looked cautiously about, but saw nothing.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 149,
+            "sentence": "The little house had three rooms, a sitting room, a bedroom, and a tiny kitchen.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 150,
+            "sentence": "We visited my uncle's village, the largest village in the world.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 151,
+            "sentence": "We learn something new each day.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 152,
+            "sentence": "The market begins five minutes earlier this week.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 153,
+            "sentence": "Did you find the distance too great?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 154,
+            "sentence": "Hurry, children.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 155,
+            "sentence": "Madam, I will obey your command.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 156,
+            "sentence": "Here under this tree they gave their guests a splendid feast.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 157,
+            "sentence": "In winter I get up at night, and dress by yellow candlelight.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 158,
+            "sentence": "Tell the last part of that story again.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 159,
+            "sentence": "Be quick or you will be too late.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 160,
+            "sentence": "Will you go with us or wait here?",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 161,
+            "sentence": "She was always, shabby, often ragged, and on cold days very uncomfortable.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 162,
+            "sentence": "Think first and then act.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 163,
+            "sentence": "I stood, a little mite of a girl, upon a chair by the window, and watched the falling snowflakes.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 164,
+            "sentence": "Show the guests these shells, my son, and tell them their strange history.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 165,
+            "sentence": "Be satisfied with nothing but your best.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 166,
+            "sentence": "We consider them our faithful friends.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 167,
+            "sentence": "We will make this place our home.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 168,
+            "sentence": "The squirrels make their nests warm and snug with soft moss and leaves.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 169,
+            "sentence": "The little girl made the doll's dress herself.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 170,
+            "sentence": "I hurt myself.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 171,
+            "sentence": "She was talking to herself.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 172,
+            "sentence": "He proved himself trustworthy.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 173,
+            "sentence": "We could see ourselves in the water.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 174,
+            "sentence": "Do it yourself.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 175,
+            "sentence": "I feel ashamed of myself.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 176,
+            "sentence": "Sit here by yourself.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 177,
+            "sentence": "The dress of the little princess was embroidered with roses, the national flower of the Country.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 178,
+            "sentence": "They wore red caps, the symbol of liberty.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 179,
+            "sentence": "With him as our protector, we fear no danger.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 180,
+            "sentence": "All her finery, lace, ribbons, and feathers, was packed away in a trunk.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 181,
+            "sentence": "Light he thought her, like a feather.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 182,
+            "sentence": "Every spring and fall our cousins pay us a long visit.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 183,
+            "sentence": "In our climate the grass remains green all winter.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 184,
+            "sentence": "The boy who brought the book has gone.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 185,
+            "sentence": "These are the flowers that you ordered.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 186,
+            "sentence": "I have lost the book that you gave me.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 187,
+            "sentence": "The fisherman who owned the boat now demanded payment.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 188,
+            "sentence": "Come when you are called.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 189,
+            "sentence": "I shall stay at home if it rains.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 190,
+            "sentence": "When he saw me, he stopped.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 191,
+            "sentence": "Do not laugh at me because I seem so absent minded.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 192,
+            "sentence": "I shall lend you the books that you need.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 193,
+            "sentence": "Come early next Monday if you can.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 194,
+            "sentence": "If you come early, wait in the hall.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 195,
+            "sentence": "I had a younger brother whose name was Antonio.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 196,
+            "sentence": "Gnomes are little men who live under the ground.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 197,
+            "sentence": "He is loved by everybody, because he has a gentle disposition.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 198,
+            "sentence": "Hold the horse while I run and get my cap.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 199,
+            "sentence": "I have found the ring I lost.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 200,
+            "sentence": "Play and I will sing.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 201,
+            "sentence": "That is the funniest story I ever heard.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 202,
+            "sentence": "She is taller than her brother.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 203,
+            "sentence": "They are no wiser than we.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 204,
+            "sentence": "Light travels faster than sound.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 205,
+            "sentence": "We have more time than they.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 206,
+            "sentence": "She has more friends than enemies.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 207,
+            "sentence": "He was very poor, and with his wife and five children lived in a little low cabin of logs and stones.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 208,
+            "sentence": "When the wind blew, the traveler wrapped his mantle more closely around him.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 209,
+            "sentence": "I am sure that we can go.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 210,
+            "sentence": "We went back to the place where we saw the roses.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 211,
+            "sentence": "\"This tree is fifty feet high,\" said the gardener.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 212,
+            "sentence": "I think that this train leaves five minutes earlier today.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 213,
+            "sentence": "My opinion is that the governor will grant him a pardon.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 214,
+            "sentence": "Why he has left the city is a mystery.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 215,
+            "sentence": "The house stands where three roads meet.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 216,
+            "sentence": "He has far more money than brains.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 217,
+            "sentence": "Evidently that gate is never opened, for the long grass and the great hemlocks grow close against it.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        },
+        {
+            "num": 218,
+            "sentence": "I met a little cottage girl; she was eight years old, she said.",
+            "translation": "",
+            "literal": "",
+            "notes": ""
+        }
+    ]
+}
