@@ -5649,6 +5649,107 @@
             "lifavu"
         ]
     },
+
+    {
+        "word": "kuruma",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "hoarder",
+                    "collector",
+                    "\"one who has\""
+                ]
+            },
+            {
+                "type": "noun",
+                "definition": [
+                    "a rich person",
+                    "an affluent person",
+                    "a \"have-r\""
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kuri",
+            "uma"
+        ]
+    },
+
+    {
+        "word": "lagrau",
+        "data": [
+            {
+                "type": "adjective",
+                "definition": [
+                    "poor",
+                    "meager",
+                    "lacking",
+                    "deprived"
+                ]
+            }
+        ]
+    },
+
+    {
+        "word": "kukau",
+        "data": [
+            {
+                "type": "adjective",
+                "definition": [
+                    "rich",
+                    "plentiful",
+                    "thriving",
+                    "\"like a rich person\""
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kuruma",
+            "gaku"
+        ]
+    },
+
+    {
+        "word": "tara",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "battle",
+                    "fight",
+                    "clash"
+                ]
+            },
+            {
+                "type": "verb",
+                "definition": [
+                    "to fight",
+                    "to battle",
+                    "to clash"
+                ]
+            }
+        ]
+    },
+
+    {
+        "word": "kamuwo",
+        "data": [
+            {
+                "type": "adjective",
+                "definition": [
+                    "pretty",
+                    "beautiful",
+                    "cute",
+                    "\"having a good face\""
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "kamu",
+            "wogi"
+        ]
+    },
     
 
 
@@ -6800,6 +6901,23 @@
                         "utu"
                     ]
                 }
+            ]
+        },
+
+        {
+            "word": "ai",
+            "data": [
+                {
+                    "type": "adjective",
+                    "definition": [
+                        "dumb",
+                        "simple",
+                        "(often an insult)"
+                    ]
+                }
+            ],
+            "derivedFrom": [
+                "aigi"
             ]
         }
     ]
