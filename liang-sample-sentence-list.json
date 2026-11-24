@@ -74,29 +74,29 @@
         {
             "num": 11,
             "sentence": "All the people shouted.",
-            "translation": "grazi bakradin [ZHAuT]b *",
-            "literal": "all people shouted",
-            "notes": ""
+            "translation": "grazi bakradin liab auti",
+            "literal": "all people spoke loudly",
+            "notes": "Liang does not have the same variety of verbs that English does, this is supplemented by adverbs."
         },
         {
             "num": 12,
             "sentence": "Some of the people shouted.",
-            "translation": "pika bakradin [ZHAuT]b *",
-            "literal": "some people shouted",
+            "translation": "pika bakradin liab auti",
+            "literal": "some people spoke loudly",
             "notes": ""
         },
         {
             "num": 13,
             "sentence": "Many of the people shouted twice.",
-            "translation": "badinu bakradin [ZHAuT]b zhutifuta *",
-            "literal": "many people shouted twice",
+            "translation": "badinu bakradin liab auti zhutifuta",
+            "literal": "many people spoke loudly twice",
             "notes": ""
         },
         {
             "num": 14,
             "sentence": "Happy people often shout.",
-            "translation": "bakradi libun mu[ZHAuT]g *",
-            "literal": "people happy often-shout",
+            "translation": "bakradi libun raliag auti",
+            "literal": "people happy often-speak loudly",
             "notes": ""
         },
         {
