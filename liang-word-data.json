@@ -5765,6 +5765,46 @@
         ]
     },
     
+    {
+        "word": "ugui",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "milk",
+                    "goat\'s milk, to be precise"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "tuguki",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "cow",
+                    "\"milk horse\""
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "tuki",
+            "ugui"
+        ]
+    },
+    {
+        "word": "imula",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "goat"
+                ]
+            }
+        ]
+    },
+    
 
 
 
