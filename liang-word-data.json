@@ -5805,6 +5805,77 @@
         ]
     },
     
+    {
+        "word": "bupi",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "town",
+                    "village
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "badinu",
+            "vuubi"
+        ]
+    },
+    {
+        "word": "rilinai",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "port",
+                    "harbour"
+                ]
+            }
+        ],
+        "derivedFrom": [
+            "rilui",
+            "nai"
+        ]
+    },
+    {
+        "word": "rilui",
+        "data": [
+            {
+                "type": "noun",
+                "definition": [
+                    "door",
+                    "gate"
+                ]
+            }
+        ]
+    },
+    
+    {
+        "word": "izaki",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to open",
+                    "to reveal"
+                ]
+            }
+        ]
+    },
+    
+    {
+        "word": "dunu",
+        "data": [
+            {
+                "type": "verb",
+                "definition": [
+                    "to close",
+                    "to hide"
+                ]
+            }
+        ]
+    },
+    
 
 
 
